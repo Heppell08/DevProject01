@@ -1,0 +1,7 @@
+{
+  "name": "rpgheppell",
+  "version": "0.0.0",
+  "dependencies": {
+    "phaser-official": "1.1.5"
+  }
+}
